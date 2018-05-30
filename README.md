@@ -42,6 +42,8 @@ npm i --save loaders.css
 - To initialise loaders that are added after page load select the div and call `loaders` on them (e.g. `$('.loader-inner').loaders()`)
 - Enjoy
 
+notice:jQuery version needs to be above version 1.8.0
+
 ### Customising
 
 ##### Changing the background color
